@@ -1,5 +1,1 @@
-# Churn-rate
-The data is of a fintech company which provides a subscription product to it's users, which allows them to manage their bank accounts.
-I've used the data to identify users who are likely to cancel their subscription.
-Also find some useful insights about the customers.
-I've used Logistic regression for prediciting whether the customer will churn.
+The objective of the project is to perform churn prediction analysis based on set of independant variables. The data is of a Fintech company which provides a subscription product to their users and also allows them to manage their bank accounts. In this notebook, we have used Logistic Regression to build a model and predict the churning rate of customers. We will also identify the users who are likely to cancel their subscription and also gain insights about the same. Therefore, this project intends to understand the variables that can help the company work on customer retention and set up a targeted strategy for the same. 
